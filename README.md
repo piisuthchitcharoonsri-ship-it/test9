@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="th">
 <head>
   <meta charset="UTF-8">
@@ -22,14 +21,12 @@
         <p>ราคา: 100 บาท</p>
         <button onclick="addToCart('สินค้า 1', 100)">หยิบใส่ตะกร้า</button>
       </div>
-
       <div class="product">
         <img src="https://via.placeholder.com/200" alt="สินค้า 2">
         <h2>สินค้า 2</h2>
         <p>ราคา: 200 บาท</p>
         <button onclick="addToCart('สินค้า 2', 200)">หยิบใส่ตะกร้า</button>
       </div>
-
       <div class="product">
         <img src="https://via.placeholder.com/200" alt="สินค้า 3">
         <h2>สินค้า 3</h2>
@@ -40,9 +37,6 @@
   </main>
 
   <script src="script.js"></script>
-</body>
-</html>
-<!DOCTYPE html>
 <html lang="th">
 <head>
   <meta charset="UTF-8">
@@ -66,8 +60,6 @@
   </main>
 
   <script src="script.js"></script>
-</body>
-</html>
 body {
   font-family: 'Prompt', sans-serif;
   background-color: #fdf6f9;
